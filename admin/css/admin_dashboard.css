@@ -1,0 +1,21 @@
+@media only screen   
+and (min-width: 1030px)   
+and (max-width: 1890px) {
+    #admin-events{
+        width:60%;
+        margin: auto;
+    }
+    #admin-news{
+        width:60%;
+        margin: auto;
+    }
+    #admin-userqueries{
+        width:60%;
+        margin: auto;
+    }
+    #admin-home{
+        width:60%;
+        margin: auto;
+    }
+}
+
